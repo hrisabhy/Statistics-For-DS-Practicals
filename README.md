@@ -9,3 +9,5 @@
 ## 4. Probability
 
 ## 5. Discrete Distribution
+
+## 6. Continuous Distribution
