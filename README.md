@@ -11,3 +11,5 @@
 ## 5. Discrete Distribution
 
 ## 6. Continuous Distribution
+
+## 7. Discriptive Statistics
