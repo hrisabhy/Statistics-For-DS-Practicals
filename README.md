@@ -13,3 +13,5 @@
 ## 6. Continuous Distribution
 
 ## 7. Discriptive Statistics
+
+## 8. Hypothesis Testing
