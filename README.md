@@ -7,3 +7,5 @@
 ## 3. Advance Data Visualization
 
 ## 4. Probability
+
+## 5. Discrete Distribution
